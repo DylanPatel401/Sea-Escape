@@ -1,0 +1,8 @@
+sprit_yellow=true
+sprit_red=false
+sprit_purple=false
+sprit_green=false
+sprit_blue=false
+sprit_black=false
+shells=0
+FISH_URL=https://i.ibb.co/CQp02H2/Fish.gif
