@@ -32,8 +32,8 @@ After completing these steps, click the **"How to Play"** button in the game to 
 **Sea Escape** represents our dedication and effort within the project timeframe. Throughout this experience, we developed vital skills in time management, JavaFX syntax, problem-solving, teamwork, and communication. Future enhancements may include adding various obstacles, a distance traveled meter, and power-ups that randomly spawn during gameplay.
 
 ## Screenshots
-![Screenshot1](path/to/screenshot1.png)  
-![Screenshot2](path/to/screenshot2.png)  
-![Screenshot3](path/to/screenshot3.png)  
-![Screenshot4](path/to/screenshot4.png)  
+![Screenshot1](Screenshots/Home.png)  
+![Screenshot1](Screenshots/HowToPlay.png)  
+![Screenshot1](Screenshots/Shop.png)  
+![Screenshot1](Screenshots/Play.png)  
 
